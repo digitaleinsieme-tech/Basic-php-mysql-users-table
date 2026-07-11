@@ -1,0 +1,10 @@
+php/config.php
+# XAMPP
+*.log
+
+# Editor
+.vscode/
+
+# Sistemi operativi
+.DS_Store
+Thumbs.db
